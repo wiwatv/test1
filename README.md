@@ -14,7 +14,7 @@ git clone https://github.com/TendonT52/python-postgres-demo.git
 1. Navigate to the repository:
 
 ```bash
-cd your-repo
+cd python-postgres-demo
 ```
 
 1. Start the services using Docker Compose:
