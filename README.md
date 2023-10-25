@@ -1,4 +1,6 @@
-# This repository contains a Docker Compose setup that launches Jupyter Notebook, PostgreSQL, and pgAdmin services quickly. A demo Jupyter Notebook is provided to help you get started
+# This repository contains a Docker Compose setup that launches Jupyter Notebook, PostgreSQL, and pgAdmin services quickly. 
+
+## A demo Jupyter Notebook is provided to help you get started
 
 ## Getting Started
 
