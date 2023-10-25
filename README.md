@@ -53,4 +53,3 @@ The data is stored in the `data` directory of this repository:
 - Jupyter Notebook Data: `./data/jupyter`
 - PostgreSQL Data: `./data/postgres`
 - pgAdmin Data: `./data/pgadmin`
-# python-postgres-demo
